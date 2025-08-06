@@ -1,12 +1,12 @@
-# Hello there, here Jocimar Lopes 👋
+# Hello there, here's Jocimar Lopes 👋
 
 🚀 Full-Stack Developer | Ionic | Angular | Python
 
 🌱 Learning about: LLM's | Diffusion Models | P2P | PGP
 
 🔭 Some Projects:
-- [Jarvis](https://github.com/jocimarlopes/jarvis)
 - [Ozi Subtitles](https://github.com/jocimarlopes/ozi-subtitles-generator)
+- [Jarvis](https://github.com/jocimarlopes/jarvis)
 
 💬 Always developing and learning about tech!
 
