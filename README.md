@@ -1,6 +1,8 @@
 # Hello there, here's Jocimar Lopes 👋
 
-🚀 Full-Stack Developer | Ionic | Angular | Python
+🚀 Full-Stack Developer
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocimarlopes&layout=compact&theme=tokyonight)]
 
 ### 🚀 Tecnologias & Ferramentas
 
