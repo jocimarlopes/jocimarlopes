@@ -1,6 +1,6 @@
 # Hello there, here's Jocimar Lopes 👋
 
-##🚀 Full-Stack Developer
+## 🚀 Full-Stack Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocimarlopes&layout=compact&theme=tokyonight)]
 
@@ -14,14 +14,14 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-###🌱 Learning about: LLM's | Diffusion Models | P2P | PGP
+### 🌱 Learning about: LLM's | Diffusion Models | P2P | PGP
 
-###🔭 Some Projects:
+### 🔭 Some Projects:
 - [Ozi Subtitles](https://github.com/jocimarlopes/ozi-subtitles-generator)
 - [Jarvis](https://github.com/jocimarlopes/jarvis)
 
-##💬 Always developing and learning about tech!
+## 💬 Always developing and learning about tech!
 
 ![Public Github](https://github-readme-stats.vercel.app/api?username=jocimarlopes&show_icons=true&theme=radical)
 
-###📫 Contact: [LinkedIn](https://www.linkedin.com/in/jocimarlopes)
+### 📫 Contact: [LinkedIn](https://www.linkedin.com/in/jocimarlopes)
