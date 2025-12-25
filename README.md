@@ -2,8 +2,6 @@
 
 ## 🚀 Full-Stack Developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocimarlopes&layout=compact&theme=tokyonight)]
-
 ### 🚀 Tecnologias & Ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
