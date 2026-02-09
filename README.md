@@ -17,6 +17,7 @@
 ### 🔭 Some Projects:
 - [Ozi Subtitles](https://github.com/jocimarlopes/ozi-subtitles-generator)
 - [Jarvis](https://github.com/jocimarlopes/jarvis)
+- [Portfolio](https://jocimarlopes.github.io)
 
 ## 💬 Always developing and learning about tech!
 
