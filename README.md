@@ -15,7 +15,7 @@
 ### 🌱 Learning about: LLM's | Diffusion Models | P2P | PGP
 
 ### 🔭 Some Projects:
-- [aiTattoo - Plataforma de Tatuagens](https://aitattoo.com.br)
+- [aiTattoo - Tattoo Automation Platform](https://aitattoo.com.br)
 - [Ozi Subtitles](https://github.com/jocimarlopes/ozi-subtitles-generator)
 - [Jarvis](https://github.com/jocimarlopes/jarvis)
 - [Portfolio](https://jocimarlopes.github.io)
