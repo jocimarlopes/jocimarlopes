@@ -19,7 +19,7 @@
 - [Ozi Subtitles](https://github.com/jocimarlopes/ozi-subtitles-generator)
 - [Jarvis](https://github.com/jocimarlopes/jarvis)
 - [Portfolio](https://jocimarlopes.github.io)
-- [Chat P2P Encrypted](https://jocimarlopes.github.io/chat_p2p_frontend/)
+- [Chat P2P Encrypted](https://jocimarlopes.github.io/meet)
 
 ## 💬 Always developing and learning about tech!
 
